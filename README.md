@@ -1,1 +1,1 @@
-# Twitch-Booster-Innofensif-version-simplifi-e-
+# Twitch Booster Innofensif version simplifiée
