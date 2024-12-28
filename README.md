@@ -9,4 +9,10 @@ _____________________________________________
 - Plus de détail sur Twitch Booster --> https://jvflux.fr/Twitch_Booster
 
 
+
+
 # Une reproduction de Twitch Booster ( C++ )
+Vous trouverez dans ce dépot, les fichier sources de ce projet.
+Ceci est une reproduction simplifiée, vous trouverez plus de détails sur les payloads de Twitch Booster sur sa page _**JVFlux**_.
+
+Une autre version devrait arriver bientôt.
