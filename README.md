@@ -3,9 +3,10 @@ Twitch Booster, aussi appelé _"Virus Risitas"_, _"Virus du 18-25"_, ou par ceux
 Le forumeur **_Jewstice_** est le créateur du fameux malware, celui-ci est par la suite amélioré par les autres membres des raids.
 
 
-Quelques lien ci-dessous
+Quelques liens ci-dessous
 _____________________________________________
 - Forumeur Jewstice --> https://jvflux.fr/Jewstice_(forumeur)
-
-
 - Plus de détail sur Twitch Booster --> https://jvflux.fr/Twitch_Booster
+
+
+# Une reproduction de Twitch Booster ( C++ )
