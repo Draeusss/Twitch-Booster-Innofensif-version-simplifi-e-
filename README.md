@@ -6,5 +6,7 @@ Le forumeur **_Jewstice_** est le créateur du fameux malware, celui-ci est par 
 
 Quelques lien ci-dessous
 _____________________________________________
-Forumeur Jewstice --> https://jvflux.fr/Jewstice_(forumeur)
-Plus de détail sur Twitch Booster --> https://jvflux.fr/Twitch_Booster
+- Forumeur Jewstice --> https://jvflux.fr/Jewstice_(forumeur)
+
+
+- Plus de détail sur Twitch Booster --> https://jvflux.fr/Twitch_Booster
